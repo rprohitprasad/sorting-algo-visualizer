@@ -1,9 +1,9 @@
 # Sorting-Algo-Visualizer
   - Visualization of Various Sorting Algorithms like
-   ##### 1.Merg Sort
-   ##### 2.Selection sort
-   ##### 3.Quick sort
-   ##### 4.Bubble sort
+     ##### 1.Merg Sort
+     ##### 2.Selection sort
+     ##### 3.Quick sort
+     ##### 4.Bubble sort
  - Built with HTML, CSS, and JAVASCRIPT
  - Features of this project are DOM and JS timer functions
  - Implemented the seperations of concerns, which means breaking code into smaller blocks.
