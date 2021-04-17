@@ -1,6 +1,6 @@
 # Sorting-Algo-Visualizer
   - Visualization of Various Sorting Algorithms like
-     ##### 1.Merg Sort
+     ##### 1.Merge Sort
      ##### 2.Selection sort
      ##### 3.Quick sort
      ##### 4.Bubble sort
