@@ -8,7 +8,7 @@
  - Features of this project are DOM and JS timer functions
  - Implemented the seperations of concerns, which means breaking code into smaller blocks.
 
-Link - http://127.0.0.1:5501/index.html
+
   
   ![Screenshot (2)](https://user-images.githubusercontent.com/71692155/126743561-5b549926-5853-485f-98c1-a96001a5f483.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/71692155/126743589-1a991f2e-e138-4d96-a874-a6c794f9f51e.png)
